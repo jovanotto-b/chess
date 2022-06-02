@@ -1,0 +1,36 @@
+body {
+    background-image: url(https://w0.peakpx.com/wallpaper/192/1007/HD-wallpaper-shen-the-eye-of-twilight-fighter-cg-video-game-shen-splash-assassin-league-of-legends-the-eye-of-twilight-splash-fantasy-warrior-shen-sword-ninja.jpg);
+    background-size: contain;
+    background-position: center;
+    cursor: pointer;
+}
+.chessboard {
+    width: 640px;
+    height: 640px;
+    margin: 20px;
+    border: 25px solid #8b4513;
+}
+.black {
+    float: left;
+    width: 80px;
+    height: 80px;
+    background-color: #cd853f;
+    font-size:50px;
+    text-align:center;
+    display: table-cell;
+    vertical-align:middle;
+}
+.white {
+    float: left;
+    width: 80px;
+    height: 80px;
+    background-color: #fff;
+    font-size:50px;
+    text-align:center;
+    display: table-cell;
+    vertical-align:middle;
+}
+
+.simbol:hover {
+    color:#8b4513;
+}
